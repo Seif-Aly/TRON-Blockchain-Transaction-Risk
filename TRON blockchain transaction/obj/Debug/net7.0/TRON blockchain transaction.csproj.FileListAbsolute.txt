@@ -1,0 +1,15 @@
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/bin/Debug/net7.0/TRON blockchain transaction
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/bin/Debug/net7.0/TRON blockchain transaction.deps.json
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/bin/Debug/net7.0/TRON blockchain transaction.runtimeconfig.json
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/bin/Debug/net7.0/TRON blockchain transaction.dll
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/bin/Debug/net7.0/TRON blockchain transaction.pdb
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/TRON blockchain transaction.csproj.AssemblyReference.cache
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/TRON blockchain transaction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/TRON blockchain transaction.AssemblyInfoInputs.cache
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/TRON blockchain transaction.AssemblyInfo.cs
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/TRON blockchain transaction.csproj.CoreCompileInputs.cache
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/TRON blockchain transaction.dll
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/refint/TRON blockchain transaction.dll
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/TRON blockchain transaction.pdb
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/TRON blockchain transaction.genruntimeconfig.cache
+/Users/seif/Projects/TRON blockchain transaction/TRON blockchain transaction/obj/Debug/net7.0/ref/TRON blockchain transaction.dll
